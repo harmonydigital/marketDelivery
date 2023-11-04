@@ -36,6 +36,15 @@ app.innerHTML=`
         </div>
 
     </div>
+    <div>
+    
+    <a href='https://harmonydigital.github.io/beachbar/' targt='_blank'>
+        <img src='assets/img/admflow.png'>
+        <span>Praia Delivery</span>
+    </a>
+    </div>
+
+
 
     <footer>
         <a href='https://www.instagram.com/harmonydigitalflow/' barget='_blank'>
