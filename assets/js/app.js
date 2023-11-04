@@ -24,12 +24,12 @@ app.innerHTML=`
                 <span>Bebidas Delivery</span>
             </a>
 
-            <a href='https://harmonydigital.github.io/queropizza/' targt='_blank'>
+            <a href='https://harmonydigital.github.io/queropizza/' target='_blank'>
                 <img src='assets/img/pizzas.png'>
                 <span>Pizzas Delivery</span>
             </a>
 
-            <a href='https://harmonydigital.github.io/beachbar/' targt='_blank'>
+            <a href='https://harmonydigital.github.io/beachbar/' target='_blank'>
                 <img src='assets/img/camarao.png'>
                 <span>Praia Delivery</span>
             </a>
@@ -41,7 +41,7 @@ app.innerHTML=`
     display: flex;
 ">
     
-        <a href='https://harmonydigital.github.io/admbeach/' targt='_blank'>
+        <a href='https://harmonydigital.github.io/admbeach/' target='_blank'>
             <img src='assets/img/admflow.png'>
             <span>Flow adm </span>
         </a>
@@ -50,7 +50,7 @@ app.innerHTML=`
 
 
     <footer>
-        <a href='https://www.instagram.com/harmonydigitalflow/' barget='_blank'>
+        <a href='https://www.instagram.com/harmonydigitalflow/' target='_blank'>
             @harmonydigitalflow
         </a>
     </footer>
