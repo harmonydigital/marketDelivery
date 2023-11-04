@@ -41,7 +41,7 @@ app.innerHTML=`
     display: flex;
 ">
     
-        <a href='#' targt='_blank'>
+        <a href='https://harmonydigital.github.io/admbeach/' targt='_blank'>
             <img src='assets/img/admflow.png'>
             <span>Flow adm </span>
         </a>
