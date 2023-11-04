@@ -24,12 +24,12 @@ app.innerHTML=`
                 <span>Bebidas Delivery</span>
             </a>
 
-            <a href='#'>
+            <a href='https://harmonydigital.github.io/queropizza/' targt='_blank'>
                 <img src='assets/img/pizzas.png'>
                 <span>Pizzas Delivery</span>
             </a>
 
-            <a href='#'>
+            <a href='https://harmonydigital.github.io/beachbar/' targt='_blank'>
                 <img src='assets/img/camarao.png'>
                 <span>Praia Delivery</span>
             </a>
