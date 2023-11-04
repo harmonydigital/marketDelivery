@@ -17,6 +17,8 @@ div#app {
     padding: 20px 0;
     max-width: 500px;
     margin: 0 auto;
+    max-width: 290px;
+    margin: 0 auto;
 
 }
 
@@ -36,7 +38,7 @@ h1 {
 img {
     width: 70px;
 }
-.appGalery a span {
+ a span {
     font-size: 10px;
     color: black;
     display: block;

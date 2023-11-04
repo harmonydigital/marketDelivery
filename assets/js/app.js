@@ -36,12 +36,15 @@ app.innerHTML=`
         </div>
 
     </div>
-    <div>
+
+    <div style="
+    display: flex;
+">
     
-    <a href='https://harmonydigital.github.io/beachbar/' targt='_blank'>
-        <img src='assets/img/admflow.png'>
-        <span>Praia Delivery</span>
-    </a>
+        <a href='#' targt='_blank'>
+            <img src='assets/img/admflow.png'>
+            <span>Flow adm </span>
+        </a>
     </div>
 
 
